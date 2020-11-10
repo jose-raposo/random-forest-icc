@@ -1,1 +1,2 @@
-# random-forest-icc
+     Cerca de 6,5 milhões de pessoas nos Estados Unidos têm insuficiência cardíaca e cerca de 960.000 novos casos surgem anualmente. Em todo o mundo, por volta de 26 milhões de pessoas são afetadas. É provável que o distúrbio se torne mais frequente porque as pessoas estão vivendo mais tempo e porque, em alguns países, determinados fatores de risco para doença cardíaca (como obesidade, diabetes, tabagismo e hipertensão arterial) estão afetando um número maior de pessoas.
+     Por conta disso, é crucial reconhecer e corrigir os desequilíbrios clínico-laboratoriais que levam à um pior prognóstico e maior morbimortalidade nos portadores de insuficiência cardíaca.
